@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 82fba8c851b233346a9b2894f6d8867c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5865039774017499689
+    second: gamefont_w_0
+  - first:
+      213: -2324154618162607533
+    second: gamefont_w_1
+  - first:
+      213: -3084483532744295648
+    second: gamefont_w_2
+  - first:
+      213: -216336092510961471
+    second: gamefont_w_3
+  - first:
+      213: -1904248511722855236
+    second: gamefont_w_4
+  - first:
+      213: 4032604481645152415
+    second: gamefont_w_5
+  - first:
+      213: 2311099299084530496
+    second: gamefont_w_6
+  - first:
+      213: -789623114813945093
+    second: gamefont_w_7
+  - first:
+      213: -87337959105575241
+    second: gamefont_w_8
+  - first:
+      213: -498855397140040097
+    second: gamefont_w_9
+  - first:
+      213: -7040387093874887332
+    second: gamefont_w_10
+  - first:
+      213: 7830663161069132106
+    second: gamefont_w_11
+  - first:
+      213: -6773410790551784353
+    second: gamefont_w_12
+  - first:
+      213: 6942453661619168853
+    second: gamefont_w_13
+  - first:
+      213: -7667718105520652327
+    second: gamefont_w_14
+  - first:
+      213: -5996756352902717748
+    second: gamefont_w_15
+  - first:
+      213: -3493264928948346855
+    second: gamefont_w_16
+  - first:
+      213: 3544583290464708662
+    second: gamefont_w_17
+  - first:
+      213: 991691134650821400
+    second: gamefont_w_18
+  - first:
+      213: 7946959941627542813
+    second: gamefont_w_19
+  - first:
+      213: 5903985088668648253
+    second: gamefont_w_20
+  - first:
+      213: -2598854066787528505
+    second: gamefont_w_21
+  - first:
+      213: -8283682101878633847
+    second: gamefont_w_22
+  - first:
+      213: 5808639758663305957
+    second: gamefont_w_23
+  - first:
+      213: 250007677415928843
+    second: gamefont_w_24
+  - first:
+      213: -1910344707025705004
+    second: gamefont_w_25
+  - first:
+      213: -4614468116694331097
+    second: gamefont_w_26
+  - first:
+      213: 2138984369616749447
+    second: gamefont_w_27
+  - first:
+      213: -2859242353032269331
+    second: gamefont_w_28
+  - first:
+      213: -6334399335600166049
+    second: gamefont_w_29
+  - first:
+      213: -4609587513166402792
+    second: gamefont_w_30
+  - first:
+      213: 6685492401118099923
+    second: gamefont_w_31
+  - first:
+      213: -4970424608343855699
+    second: gamefont_w_32
+  - first:
+      213: 8188478672224961045
+    second: gamefont_w_33
+  - first:
+      213: 7562316493386592690
+    second: gamefont_w_34
+  - first:
+      213: 704482108158250612
+    second: gamefont_w_35
+  - first:
+      213: 410275334908038116
+    second: gamefont_w_36
+  - first:
+      213: 8386089416759545780
+    second: gamefont_w_37
+  - first:
+      213: 5883597273445305551
+    second: gamefont_w_38
+  - first:
+      213: 4286984216342735442
+    second: gamefont_w_39
+  - first:
+      213: -6058554321127306769
+    second: gamefont_w_40
+  - first:
+      213: -8988684464945145593
+    second: gamefont_w_41
+  - first:
+      213: -2591020448237191605
+    second: gamefont_w_42
+  - first:
+      213: 7083658326670251740
+    second: gamefont_w_43
+  - first:
+      213: -6937851631683425151
+    second: gamefont_w_44
+  - first:
+      213: -8961216246469534956
+    second: gamefont_w_45
+  - first:
+      213: -1820634798230080340
+    second: gamefont_w_46
+  - first:
+      213: -5485821963013422629
+    second: gamefont_w_47
+  - first:
+      213: 6181491517716885695
+    second: gamefont_w_48
+  - first:
+      213: 2985570047164525587
+    second: gamefont_w_49
+  - first:
+      213: 1798834177317609375
+    second: gamefont_w_50
+  - first:
+      213: 2713388516731976490
+    second: gamefont_w_51
+  - first:
+      213: 1904616143236391758
+    second: gamefont_w_52
+  - first:
+      213: -1970866528593318182
+    second: gamefont_w_53
+  - first:
+      213: 7224713034958587597
+    second: gamefont_w_54
+  - first:
+      213: 4666269205073061601
+    second: gamefont_w_55
+  - first:
+      213: 7154742122094866490
+    second: gamefont_w_56
+  - first:
+      213: -6028706274057020691
+    second: gamefont_w_57
+  - first:
+      213: 1244839041111245190
+    second: gamefont_w_58
+  - first:
+      213: -5881567580087996412
+    second: gamefont_w_59
+  - first:
+      213: 2043076132716992322
+    second: gamefont_w_60
+  - first:
+      213: -6357636800842118244
+    second: gamefont_w_61
+  - first:
+      213: 8293754465366597412
+    second: gamefont_w_62
+  - first:
+      213: 861120328036829701
+    second: gamefont_w_63
+  - first:
+      213: 5859403452558318503
+    second: gamefont_w_64
+  - first:
+      213: 298732557173594087
+    second: gamefont_w_65
+  - first:
+      213: 2870686876919764415
+    second: gamefont_w_66
+  - first:
+      213: 1435039882863763318
+    second: gamefont_w_67
+  - first:
+      213: 5062018552357838522
+    second: gamefont_w_68
+  - first:
+      213: -6069180645015896129
+    second: gamefont_w_69
+  - first:
+      213: -1758111301696180342
+    second: gamefont_w_70
+  - first:
+      213: -6539013914741326948
+    second: gamefont_w_71
+  - first:
+      213: 7155382760913725462
+    second: gamefont_w_72
+  - first:
+      213: -6014635352648615133
+    second: gamefont_w_73
+  - first:
+      213: 1577206838240005416
+    second: gamefont_w_74
+  - first:
+      213: 270485819092712446
+    second: gamefont_w_75
+  - first:
+      213: -5006134066891837761
+    second: gamefont_w_76
+  - first:
+      213: -5197337165273240416
+    second: gamefont_w_77
+  - first:
+      213: 9198154703233275291
+    second: gamefont_w_78
+  - first:
+      213: 75639941985607592
+    second: gamefont_w_79
+  - first:
+      213: 2041038700687076759
+    second: gamefont_w_80
+  - first:
+      213: 3309469743622902567
+    second: gamefont_w_81
+  - first:
+      213: -2673388251772608122
+    second: gamefont_w_82
+  - first:
+      213: -6353001577707204933
+    second: gamefont_w_83
+  - first:
+      213: -6545628297748574175
+    second: gamefont_w_84
+  - first:
+      213: 3423455155192527395
+    second: gamefont_w_85
+  - first:
+      213: -6065444599710856288
+    second: gamefont_w_86
+  - first:
+      213: 2327676916416228317
+    second: gamefont_w_87
+  - first:
+      213: -245630863022005646
+    second: gamefont_w_88
+  - first:
+      213: -6560894370657155210
+    second: gamefont_w_89
+  - first:
+      213: 4778649117624452767
+    second: gamefont_w_90
+  - first:
+      213: -3691502664358684210
+    second: gamefont_w_91
+  - first:
+      213: -3508677642916596879
+    second: gamefont_w_92
+  - first:
+      213: -7620185730316410896
+    second: gamefont_w_93
+  - first:
+      213: 6693660892737048116
+    second: gamefont_w_94
+  - first:
+      213: 3944865097762060378
+    second: gamefont_w_95
+  - first:
+      213: 5007699793192902123
+    second: gamefont_w_96
+  - first:
+      213: -1709312998670255938
+    second: gamefont_w_97
+  - first:
+      213: -2047614140942828921
+    second: gamefont_w_98
+  - first:
+      213: -2285921094919901986
+    second: gamefont_w_99
+  - first:
+      213: -9043654164092503438
+    second: gamefont_w_100
+  - first:
+      213: -7956245264215533877
+    second: gamefont_w_101
+  - first:
+      213: -2628527286986586082
+    second: gamefont_w_102
+  - first:
+      213: -6010374038314938564
+    second: gamefont_w_103
+  - first:
+      213: -3454016317199379884
+    second: gamefont_w_104
+  - first:
+      213: 8189372867536137731
+    second: gamefont_w_105
+  - first:
+      213: -381347621534258210
+    second: gamefont_w_106
+  - first:
+      213: 3123104686618705533
+    second: gamefont_w_107
+  - first:
+      213: 4392266174993488947
+    second: gamefont_w_108
+  - first:
+      213: 5576987019789045044
+    second: gamefont_w_109
+  - first:
+      213: -5001608747356580737
+    second: gamefont_w_110
+  - first:
+      213: 2042327668381081116
+    second: gamefont_w_111
+  - first:
+      213: 939777600188181309
+    second: gamefont_w_112
+  - first:
+      213: 4880463122556925003
+    second: gamefont_w_113
+  - first:
+      213: 3937413905846652401
+    second: gamefont_w_114
+  - first:
+      213: -8781646899294846682
+    second: gamefont_w_115
+  - first:
+      213: -4310066204515879931
+    second: gamefont_w_116
+  - first:
+      213: 5420787432961320662
+    second: gamefont_w_117
+  - first:
+      213: -4156316847498813893
+    second: gamefont_w_118
+  - first:
+      213: -8940351289493381645
+    second: gamefont_w_119
+  - first:
+      213: 811488096305190394
+    second: gamefont_w_120
+  - first:
+      213: 1760726945655584674
+    second: gamefont_w_121
+  - first:
+      213: 4574279259927369462
+    second: gamefont_w_122
+  - first:
+      213: -4794320235353924830
+    second: gamefont_w_123
+  - first:
+      213: -1293128392225686302
+    second: gamefont_w_124
+  - first:
+      213: 3125525940042872187
+    second: gamefont_w_125
+  - first:
+      213: -2873358811526385294
+    second: gamefont_w_126
+  - first:
+      213: 7732156849383351438
+    second: gamefont_w_127
+  - first:
+      213: -8916471663328201318
+    second: gamefont_w_0
+  - first:
+      213: -8860508621330184983
+    second: gamefont_w_1
+  - first:
+      213: -3849757960005404391
+    second: gamefont_w_2
+  - first:
+      213: 3249345868419232338
+    second: gamefont_w_3
+  - first:
+      213: 1142852466757028969
+    second: gamefont_w_4
+  - first:
+      213: 5353028156047507711
+    second: gamefont_w_5
+  - first:
+      213: 7074084782771084646
+    second: gamefont_w_6
+  - first:
+      213: -9025761708124494125
+    second: gamefont_w_7
+  - first:
+      213: -468702792019524602
+    second: gamefont_w_32
+  - first:
+      213: -3719753254104423155
+    second: gamefont_w_33
+  - first:
+      213: -3622263935436874272
+    second: gamefont_w_34
+  - first:
+      213: -3543715480150150473
+    second: gamefont_w_35
+  - first:
+      213: -6581448256233346110
+    second: gamefont_w_36
+  - first:
+      213: -8570306948067718442
+    second: gamefont_w_37
+  - first:
+      213: 8662451646041056260
+    second: gamefont_w_38
+  - first:
+      213: 9051894784535456713
+    second: gamefont_w_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamefont_w_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ca14c696b9cef0800000000000000
+      internalID: -87337959105575241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f567e2bc8a5b319f0800000000000000
+      internalID: -498855397140040097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55b75c5d358b4e90800000000000000
+      internalID: -7040387093874887332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49534708aa1cac60800000000000000
+      internalID: 7830663161069132106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54fc57e5c20002a0800000000000000
+      internalID: -6773410790551784353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ab6292dc885060800000000000000
+      internalID: 6942453661619168853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df3c92220bc69590800000000000000
+      internalID: -7667718105520652327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9aa48edd37cca0800000000000000
+      internalID: -5996756352902717748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91024b32e0e658fc0800000000000000
+      internalID: -3493264928948346855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382fe009b3e03130800000000000000
+      internalID: 3544583290464708662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b24cf25d133cd00800000000000000
+      internalID: 991691134650821400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df7fc46f5494e60800000000000000
+      internalID: 7946959941627542813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334c41582b2fe150800000000000000
+      internalID: 5903985088668648253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0dc0edef30febd0800000000000000
+      internalID: -2598854066787528505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a434564037a0d80800000000000000
+      internalID: -8283682101878633847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4653c51f6c9050800000000000000
+      internalID: 5808639758663305957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b043f7378a4387300800000000000000
+      internalID: 250007677415928843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d76f234c971d75e0800000000000000
+      internalID: -1910344707025705004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721911542bd16ffb0800000000000000
+      internalID: -4614468116694331097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7838e1b83f23fad10800000000000000
+      internalID: 2138984369616749447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de172c49a3ee158d0800000000000000
+      internalID: -2859242353032269331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be4188d51b718a0800000000000000
+      internalID: -6334399335600166049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be3a454947700c0800000000000000
+      internalID: -4609587513166402792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9b735eae3a7cc50800000000000000
+      internalID: 6685492401118099923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe98cccc1f0bbeba0800000000000000
+      internalID: -6058554321127306769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095fdc6a17c14380800000000000000
+      internalID: -8988684464945145593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7c0151a8da0cd0800000000000000
+      internalID: -2591020448237191605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd61b6f97b53e4260800000000000000
+      internalID: 7083658326670251740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c252503bcc7bf90800000000000000
+      internalID: -6937851631683425151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b59b96d4d53a380800000000000000
+      internalID: -8961216246469534956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4f7c11c4ecbb6e0800000000000000
+      internalID: -1820634798230080340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18c816df17ed3b0800000000000000
+      internalID: -5485821963013422629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fa9fc8c119c550800000000000000
+      internalID: 6181491517716885695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ca941c320ee6920800000000000000
+      internalID: 2985570047164525587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f19d4572eb6f810800000000000000
+      internalID: 1798834177317609375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bfe65da74e7a520800000000000000
+      internalID: 2713388516731976490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43641b8a4e8e6a10800000000000000
+      internalID: 1904616143236391758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeec77955316a4e0800000000000000
+      internalID: -1970866528593318182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc647d42a36534460800000000000000
+      internalID: 7224713034958587597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e669ba7e1be1c040800000000000000
+      internalID: 4666269205073061601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303df67d00ca4360800000000000000
+      internalID: 7154742122094866490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea99afc59bb55ca0800000000000000
+      internalID: -6028706274057020691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68149ff238e864110800000000000000
+      internalID: 1244839041111245190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b662a279706ea0800000000000000
+      internalID: -5881567580087996412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247dca30be67a5c10800000000000000
+      internalID: 2043076132716992322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bcada830325c7a0800000000000000
+      internalID: -6357636800842118244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5c7a7eb5591370800000000000000
+      internalID: 8293754465366597412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac08d306053fb00800000000000000
+      internalID: 861120328036829701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957c718344524480800000000000000
+      internalID: -8916471663328201318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e404589a56290580800000000000000
+      internalID: -8860508621330184983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91935a24889e29ac0800000000000000
+      internalID: -3849757960005404391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f28ff9def71d20800000000000000
+      internalID: 3249345868419232338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c4bbf634a3cdf00800000000000000
+      internalID: 1142852466757028969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff040e11fb6c94a40800000000000000
+      internalID: 5353028156047507711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d111c31a23c2260800000000000000
+      internalID: 7074084782771084646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6aae70c8d0eb280800000000000000
+      internalID: -9025761708124494125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60441704b45de79f0800000000000000
+      internalID: -468702792019524602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a00d9f18c06cc0800000000000000
+      internalID: -3719753254104423155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed939d64222bbdc0800000000000000
+      internalID: -3622263935436874272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f894db8132dec0800000000000000
+      internalID: -3543715480150150473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe8935eaff9a4a0800000000000000
+      internalID: -6581448256233346110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8c58fc37201980800000000000000
+      internalID: -8570306948067718442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404664e50e5373870800000000000000
+      internalID: 8662451646041056260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefont_w_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6278f85ace9d70800000000000000
+      internalID: 9051894784535456713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
